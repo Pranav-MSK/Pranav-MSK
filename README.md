@@ -71,7 +71,7 @@ I'm **Pranav M S Krishnan**, an aspiring **Data Analyst** who loves exploring in
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Pranav-MSK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-MSK&theme=shadow_blue&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact)
 
 ---
 
