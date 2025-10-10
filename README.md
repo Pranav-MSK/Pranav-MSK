@@ -1,6 +1,6 @@
-# 💫 About Me
-Hi there! 👋  
-I'm **Pranav M S Krishnan**, an aspiring **Data Analyst** who loves exploring insights hidden in data, building sleek and functional **web applications**, and experimenting with **cloud technologies**.  
+## Hi there! 👋 I am Pranav M S Krishnan
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2021F7&width=435&lines=Aspiring+Data+Analyst;Web+Development+;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
 - 🌱 Currently learning **Data Analytics** through the Google Data Analytics Professional Certificate  
 - 🔍 Eager to work on **innovative projects** that combine analytics, web, and cloud  
@@ -10,8 +10,20 @@ I'm **Pranav M S Krishnan**, an aspiring **Data Analyst** who loves exploring in
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavmskrishnan@gmail.com)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pranavmskrishnan)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9" target="_blank">
+    <img alt="LinkedIn @pranavmskrishnan" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://pinterest.com/pranavmskrishnan" target="_blank">
+    <img alt="Pinterest @pranavmskrishnan" src="https://img.shields.io/badge/Pinterest-E60023.svg?logo=pinterest&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://codepen.io/Pranav-M-S-Krishnan" target="_blank">
+    <img alt="CodePen @pranavmskrishnan" src="https://img.shields.io/badge/CodePen-121011.svg?logo=codepen&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://dsta.sh/micBP" target="_blank">
+    <img alt="Deepstash @pranavmskrishnan" src="https://img.shields.io/badge/Deepstash-F56C24.svg?logo=deepstash&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
