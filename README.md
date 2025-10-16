@@ -42,11 +42,12 @@
 ## 📊 GitHub Stats
 <p align="center"> 
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact)
-  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-MSK&theme=shadow_blue&hide_border=false)
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Pranav-MSK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-MSK&theme=shadow_blue&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=Pranav-MSK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MSK&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
 
 ---
 
