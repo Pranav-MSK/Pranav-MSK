@@ -1,29 +1,12 @@
-## Hi there! 👋 I am Pranav M S Krishnan
+## 👋 Hi there! I'm **Pranav M S Krishnan**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=2021F7&width=435&lines=Aspiring+Data+Analyst;Web+Development+;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0078F7&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
-- 🌱 Currently learning **Data Analytics** through the Google Data Analytics Professional Certificate  
+- 🌱 Currently learning the basics of **Data Analytics**  
 - 🔍 Eager to work on **innovative projects** that combine analytics, web, and cloud  
 - 💡 Always curious about **turning raw data into meaningful stories**  
 - 🎯 Goal for 2025: Contribute to **open-source projects** and build a **data-driven portfolio**  
 - ⚡ Fun fact: I think SQL queries are like puzzles — satisfying to solve!  
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9" target="_blank">
-    <img alt="LinkedIn @pranavmskrishnan" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://pinterest.com/pranavmskrishnan" target="_blank">
-    <img alt="Pinterest @pranavmskrishnan" src="https://img.shields.io/badge/Pinterest-E60023.svg?logo=pinterest&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://codepen.io/Pranav-M-S-Krishnan" target="_blank">
-    <img alt="CodePen @pranavmskrishnan" src="https://img.shields.io/badge/CodePen-121011.svg?logo=codepen&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://dsta.sh/micBP" target="_blank">
-    <img alt="Deepstash @pranavmskrishnan" src="https://img.shields.io/badge/Deepstash-F56C24.svg?logo=deepstash&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
@@ -40,14 +23,25 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> 
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact) ![](https://nirzak-streak-stats.vercel.app/?user=Pranav-MSK&theme=shadow_blue&hide_border=false)
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/Pranav-MSK">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" />
+  </a>
+
+  <!-- Top Languages Card -->
+  <a href="https://github.com/Pranav-MSK">
+    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&card_width=320" alt="Top Languages" />
+  </a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Pranav-MSK&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)  
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MSK&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false)
+<p align="center">
+  <!-- Contribution Graph -->
+  <a href="https://github.com/Pranav-MSK">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MSK&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
@@ -58,6 +52,17 @@
 
 #### 📝 Note
 I’m continuously learning and expanding my skills in **Data Visualization** with tools like **Tableau** and **Power BI**, as well as Python libraries such as **scikit-learn** and **Seaborn**.  
-In the near future, I plan to deepen my expertise in **R programming** and **Cloud Computing** to build end-to-end data solutions.
+In the near future, I plan to deepen my expertise in **R Programming** and **Cloud Computing** to build end-to-end data solutions.
 
-[![](https://visitcount.itsvg.in/api?id=Pranav-MSK&icon=0&color=1)](https://visitcount.itsvg.in)
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@pranavmsk" target="_blank">
+    <img src="https://holopin.me/pranavmsk" alt="Pranav M S Krishnan's Holopin Badges" />
+  </a>
+</p>
+
