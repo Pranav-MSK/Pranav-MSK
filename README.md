@@ -65,9 +65,18 @@
 
 ---
 
-#### 📝 Note
-I’m continuously learning and expanding my skills in **Data Visualization** with tools like **Tableau** and **Power BI**, as well as Python libraries such as **scikit-learn** and **Seaborn**.  
-In the near future, I plan to deepen my expertise in **R Programming** and **Cloud Computing** to build end-to-end data solutions.
+## 🛣️ Learning Roadmap 
+
+### 📚 Currently Learning
+- 📊 **Data Visualization** using **Tableau** and **Seaborn**  
+- 📈 Applying **Python** (Pandas, NumPy, Matplolib) and beginning **R Programming** for data analysis  
+- 🧠 Strengthening core concepts in **Data Analytics** through hands-on practice  
+
+### 🔜 Next up
+- 🤖 **Machine Learning basics** with **scikit-learn**  
+- 📉 Advanced visualization with **Power BI** and **ggplot2**  
+- ☁️ **Cloud Computing** for data workflows (BigQuery, GCP)  
+- 📐 Expanding analytical skills using **R** and **SQL** for real-world datasets
 
 ---
 
