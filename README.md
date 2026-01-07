@@ -42,12 +42,12 @@
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/Pranav-MSK">
-    <img height="300" src="https://github-readme-stats.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" />
+    <img height="300" src="https://github-readme-stats-ebjj8h479-pranav-m-s-krishnans-projects.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=shadow_blue&count_private=true" alt="Pranav's GitHub Stats" />
   </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/Pranav-MSK">
-    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&hide_border=false&layout=compact&langs_count=10&card_width=320" alt="Top Languages" />
+    <img height="300" src="https://github-readme-stats-ebjj8h479-pranav-m-s-krishnans-projects.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&layout=compact&langs_count=10" alt="Top Languages" />
   </a>
 </p>
 
