@@ -37,34 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Pranav-MSK">
-    <img height="300" src="https://github-readme-stats-591z7oy6l-pranav-m-s-krishnans-projects.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=shadow_blue&count_private=true" alt="Pranav's GitHub Stats" />
-  </a>
-
-  <!-- Top Languages Card -->
-  <a href="https://github.com/Pranav-MSK">
-    <img height="300" src="https://github-readme-stats-591z7oy6l-pranav-m-s-krishnans-projects.vercel.app/api/top-langs/?username=Pranav-MSK&theme=shadow_blue&layout=compact&langs_count=10" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <a href="https://github.com/Pranav-MSK">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-MSK&bg_color=0d1117&color=58a6ff&line=8b949e&point=f7786b&area=true&hide_border=false" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranav-MSK&theme=highcontrast&no-frame=true&no-bg=false&margin-w=4)
-
----
-
 ## 🛣️ Learning Roadmap 
 
 ### 📚 Currently Learning
