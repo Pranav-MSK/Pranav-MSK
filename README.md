@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0078F7&center=true&vCenter=true&width=450&lines=Aspiring+Data+Analyst;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
-- 🌱 Currently learning the basics of **Data Analytics**  
+- 🌱 Currently learning the basics of **PowerBI Basics**  
 - 🔍 Eager to work on **innovative projects** across analytics, web, and cloud  
 - 💡 Fascinated by how **data transforms into meaningful insights**
 - 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**  
@@ -40,7 +40,7 @@
 ## 🛣️ Learning Roadmap 
 
 ### 📚 Currently Learning
-- 📊 **Data Visualization** using **Tableau** and **Seaborn**  
+- 📊 **Data Visualization** using **Tableau** and **PowerBI**  
 - 📈 Applying **Python** (Pandas, NumPy, Matplolib) and beginning **R Programming** for data analysis  
 - 🧠 Strengthening core concepts in **Data Analytics** through hands-on practice  
 
