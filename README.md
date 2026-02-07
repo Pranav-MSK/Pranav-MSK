@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm **Pranav M S Krishnan**
+## <img src="https://raw.githubusercontent.com/Pranav-MSK/Pranav-MSK/master/wave.gif" width="20px" height="20px"/> Hi there! I'm **Pranav M S Krishnan**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0078F7&center=true&vCenter=true&width=450&lines=Aspiring+Data+Analyst;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
