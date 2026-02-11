@@ -5,7 +5,8 @@
 - 🌱 Currently learning the basics of **PowerBI Basics**  
 - 🔍 Eager to work on **innovative projects** across analytics, web, and cloud  
 - 💡 Fascinated by how **data transforms into meaningful insights**
-- 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**  
+- 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**
+- 💬 Ask me About: Data Analytics, Web Development 
 - ⚡ Fun fact: I think SQL queries are like puzzles — challenging yet satisfying to solve!  
 
 ---
