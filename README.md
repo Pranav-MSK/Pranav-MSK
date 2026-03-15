@@ -8,6 +8,7 @@
 - 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**
 - 💬 Ask me About: _Data Analytics_, _Web Development_
 - ⚡ Fun fact: _"I think SQL queries are like puzzles — challenging yet satisfying to solve!"_
+- 🎨 Wanna check out something fun? - [Check out this repo](https://github.com/Pranav-MSK/Issue-Ink)
 
 ---
 
