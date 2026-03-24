@@ -2,13 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0078F7&center=true&vCenter=true&width=450&lines=Data+Enthusiast;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
-- 🌱 Currently learning the basics of **PowerBI Basics**  
+- 🌱 Currently learning the basics of **Power BI Basics**  
 - 🔍 Eager to work on **innovative projects** across analytics, web, and cloud  
 - 💡 Fascinated by how **data transforms into meaningful insights**
 - 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**
 - 💬 Ask me About: _Data Analytics_, _Web Development_
 - ⚡ Fun fact: _"I think SQL queries are like puzzles — challenging yet satisfying to solve!"_
 - 🎨 Wanna check out something fun? - [Check out this repo](https://github.com/Pranav-MSK/Issue-Ink)
+
+🎓 Completed multiple certifications in Data Analytics, Python, and Databases (Google, NPTEL, IBM SkillsBuild)
 
 ---
 
@@ -21,14 +23,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Libraries & Visualization
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Databases & Cloud Platforms
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -43,15 +44,15 @@
 ## 🛣️ Learning Roadmap 
 
 ### 📚 Currently Learning
-- 📊 **Data Visualization** using **Tableau** and **PowerBI**  
-- 📈 Applying **Python** (Pandas, NumPy, Matplolib) and beginning **R Programming** for data analysis  
-- 🧠 Strengthening core concepts in **Data Analytics** through hands-on practice  
+- 📊 Data Visualization using **Tableau** and **Power BI**  
+- 📈 Applying **Python** (Pandas, NumPy, Matplotlib) and exploring **R Programming**  
+- 🧠 Strengthening core **Data Analytics concepts** through hands-on projects  
 
-### 🔜 Next up
-- 🤖 **Machine Learning basics** with **scikit-learn**  
-- 📉 Advanced visualization with **Power BI** and **ggplot2**  
-- ☁️ **Cloud Computing** for data workflows (BigQuery, GCP)  
-- 📐 Expanding analytical skills using **R** and **SQL** for real-world datasets
+### 🔜 Next Up
+- 🤖 Machine Learning basics with **scikit-learn**  
+- 📉 Advanced visualization with **ggplot2**  
+- ☁️ Cloud-based data workflows (**BigQuery**, **GCP**)  
+- 📐 Deeper analytical work using **R** and **SQL**
 
 ---
 
