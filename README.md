@@ -2,63 +2,67 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=0078F7&center=true&vCenter=true&width=450&lines=Data+Enthusiast;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring)](https://git.io/typing-svg)
 
-- 🌱 Currently learning the basics of **Power BI Basics**  
-- 🔍 Eager to work on **innovative projects** across analytics, web, and cloud  
-- 💡 Fascinated by how **data transforms into meaningful insights**
-- 🎯 Goal for 2026: Contribute to **open-source projects** and craft a strong **data-driven portfolio**
-- 💬 Ask me About: _Data Analytics_, _Web Development_
-- ⚡ Fun fact: _"I think SQL queries are like puzzles — challenging yet satisfying to solve!"_
-- 🎨 Wanna check out something fun? - [Check out this repo](https://github.com/Pranav-MSK/Issue-Ink)
+I enjoy working with data — cleaning it, analyzing it, and transforming it into meaningful stories through visualizations and dashboards. I also have experience building web-based projects and exploring cloud tools for scalable data workflows.
 
-🎓 Completed multiple certifications in Data Analytics, Python, and Databases (Google, NPTEL, IBM SkillsBuild)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## Projects
+
+### Issue Ink
+- Built a Canvas using GitHub README and Actions
+- A collaborative Art experiment
+- 👉 [View Project](https://github.com/Pranav-MSK/Issue-Ink)
+
+### Exam Period Habit Analysis
+- Analyzed study and habit patterns using Python (Pandas, NumPy)
+- Derived insights on productivity trends during exam periods
+- Used data cleaning, transformation, and visualization techniques
+- 👉 [View Project](https://github.com/Pranav-MSK/exam-period-habit-analysis)
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### Data Libraries & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
-
-### Databases & Cloud Platforms
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+```js
+const pranav = {
+  languages: ["Python", "SQL", "R", "JavaScript", "Java", "HTML", "CSS"],
+  dataVisualization: ["Pandas", "NumPy", "Matplotlib", "Tableau", "Power BI"],
+  databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  cloud: ["Google Cloud", "Firebase"],
+  currentlyWorkingOn: [  "Data Analysis Projects", "Building Dashboards", "Improving SQL Query Performance"]
+};
+```
 
 ---
 
 ## 🛣️ Learning Roadmap 
 
-### 📚 Currently Learning
-- 📊 Data Visualization using **Tableau** and **Power BI**  
-- 📈 Applying **Python** (Pandas, NumPy, Matplotlib) and exploring **R Programming**  
-- 🧠 Strengthening core **Data Analytics concepts** through hands-on projects  
+## 🎯 Current Focus
+- Data Visualization using Power BI and Tableau  
+- Data Analysis with Python (Pandas, NumPy)  
+- Writing efficient SQL for real-world datasets  
 
-### 🔜 Next Up
-- 🤖 Machine Learning basics with **scikit-learn**  
-- 📉 Advanced visualization with **ggplot2**  
-- ☁️ Cloud-based data workflows (**BigQuery**, **GCP**)  
-- 📐 Deeper analytical work using **R** and **SQL**
+## 🚀 Next Goals
+- Build Machine Learning models using scikit-learn  
+- Create advanced visualizations with ggplot2  
+- Work with cloud-based data pipelines (BigQuery, GCP)  
+- Apply R and SQL to larger, real-world datasets  
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
-</p>
+## 📫 Let's Connect
+- Open to collaboration on data and web projects
+- Reach out for discussions, ideas, or opportunities
+
+
+## Fun Fact
+`I treat SQL queries like puzzles — the more complex, the more satisfying to solve.`
+
+---
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Pranav-MSK/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Pranav-MSK/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Pranav-MSK/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
