@@ -58,9 +58,12 @@ const pranav = {
 - Open to collaboration on data and web projects
 - Reach out for discussions, ideas, or opportunities
 
+---
 
-## Fun Fact
-`I treat SQL queries like puzzles — the more complex, the more satisfying to solve.`
+## ⚡ Daily Byte
+<!--START_SECTION:fun-fact-->
+Loading...
+<!--END_SECTION:fun-fact-->
 
 ---
 
