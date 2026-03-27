@@ -62,7 +62,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use indexes in SQL to drastically improve query performance.
+📊 Fact: Data cleaning often takes up 80% of analysis time.
 <!--END_SECTION:fun-fact-->
 
 ---
