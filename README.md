@@ -62,7 +62,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Data cleaning often takes up 80% of analysis time.
+😄 Fun: Pandas isn’t about animals… usually.
 <!--END_SECTION:fun-fact-->
 
 ---
