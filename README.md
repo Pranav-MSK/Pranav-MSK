@@ -4,10 +4,6 @@
 
 I enjoy working with data — cleaning it, analyzing it, and transforming it into meaningful stories through visualizations and dashboards. I also have experience building web-based projects and exploring cloud tools for scalable data workflows.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&label=Profile+Views&color=00FF00&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## Projects
@@ -91,3 +87,7 @@ const pranav = {
   </p>
 
 </details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=fadeIn&textBg=false&descAlignY=40&descAlign=100"/>
+</p>
