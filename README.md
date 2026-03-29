@@ -62,7 +62,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Pandas isn’t about animals… usually.
+💡 Tip: SELECT * is convenient, but not always efficient.
 <!--END_SECTION:fun-fact-->
 
 ---
