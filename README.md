@@ -35,8 +35,6 @@ const pranav = {
 
 ---
 
-## 🛣️ Learning Roadmap 
-
 ## 🎯 Current Focus
 - Data Visualization using Power BI and Tableau  
 - Data Analysis with Python (Pandas, NumPy)  
