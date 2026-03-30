@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: SELECT * is convenient, but not always efficient.
+📊 Fact: Small datasets can still reveal big insights.
 <!--END_SECTION:fun-fact-->
 
 ---
