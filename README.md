@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Small datasets can still reveal big insights.
+😄 Fun: Debugging is like being a detective in a crime movie where you are also the culprit.
 <!--END_SECTION:fun-fact-->
 
 ---
