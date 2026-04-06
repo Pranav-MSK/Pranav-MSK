@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Correlation does not imply causation.
+😄 Fun: SQL queries are puzzles waiting to be solved.
 <!--END_SECTION:fun-fact-->
 
 ---
