@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: SQL queries are puzzles waiting to be solved.
+💡 Tip: Use LIMIT when testing SQL queries.
 <!--END_SECTION:fun-fact-->
 
 ---
