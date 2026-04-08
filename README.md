@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use LIMIT when testing SQL queries.
+📊 Fact: Clean data leads to better models.
 <!--END_SECTION:fun-fact-->
 
 ---
