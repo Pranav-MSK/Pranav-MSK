@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Clean data leads to better models.
+😄 Fun: A missing semicolon can ruin your entire day.
 <!--END_SECTION:fun-fact-->
 
 ---
