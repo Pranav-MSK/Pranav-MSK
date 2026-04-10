@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: A missing semicolon can ruin your entire day.
+💡 Tip: Normalize databases to reduce redundancy.
 <!--END_SECTION:fun-fact-->
 
 ---
