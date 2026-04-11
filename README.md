@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Normalize databases to reduce redundancy.
+📊 Fact: Data visualization is storytelling with numbers.
 <!--END_SECTION:fun-fact-->
 
 ---
