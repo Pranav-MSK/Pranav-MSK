@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Data visualization is storytelling with numbers.
+😄 Fun: Why fix a bug when you can feature it? (Just kidding 😄)
 <!--END_SECTION:fun-fact-->
 
 ---
