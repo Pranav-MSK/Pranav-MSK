@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Why fix a bug when you can feature it? (Just kidding 😄)
+💡 Tip: Use aliases in SQL to improve readability.
 <!--END_SECTION:fun-fact-->
 
 ---
