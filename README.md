@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use aliases in SQL to improve readability.
+📊 Fact: Even simple charts can deliver powerful insights.
 <!--END_SECTION:fun-fact-->
 
 ---
