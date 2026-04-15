@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Even simple charts can deliver powerful insights.
+😄 Fun: Code works… until it doesn’t.
 <!--END_SECTION:fun-fact-->
 
 ---
