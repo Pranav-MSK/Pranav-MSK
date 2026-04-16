@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Code works… until it doesn’t.
+💡 Tip: Break problems into smaller steps when analyzing data.
 <!--END_SECTION:fun-fact-->
 
 ---
