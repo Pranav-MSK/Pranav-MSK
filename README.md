@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Structured data is easier to analyze than unstructured data.
+😄 Fun: The best queries are the ones you don’t have to debug twice.
 <!--END_SECTION:fun-fact-->
 
 ---
