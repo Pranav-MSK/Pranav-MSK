@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: The best queries are the ones you don’t have to debug twice.
+💡 Tip: Use JOINs carefully to avoid duplication.
 <!--END_SECTION:fun-fact-->
 
 ---
