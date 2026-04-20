@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use JOINs carefully to avoid duplication.
+📊 Fact: Data-driven decisions reduce guesswork.
 <!--END_SECTION:fun-fact-->
 
 ---
