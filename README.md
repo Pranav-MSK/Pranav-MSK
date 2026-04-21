@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Data-driven decisions reduce guesswork.
+😄 Fun: Coffee + SQL = productivity boost.
 <!--END_SECTION:fun-fact-->
 
 ---
