@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Coffee + SQL = productivity boost.
+💡 Tip: Comment your queries for future reference.
 <!--END_SECTION:fun-fact-->
 
 ---
