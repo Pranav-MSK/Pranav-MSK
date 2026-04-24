@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Trends become clearer over time.
+😄 Fun: Semicolons are small but powerful.
 <!--END_SECTION:fun-fact-->
 
 ---
