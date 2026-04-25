@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Semicolons are small but powerful.
+💡 Tip: Always handle NULL values properly.
 <!--END_SECTION:fun-fact-->
 
 ---
