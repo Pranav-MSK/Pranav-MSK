@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Visualization tools help non-tech users understand data.
+😄 Fun: Pandas DataFrames feel like spreadsheets with superpowers.
 <!--END_SECTION:fun-fact-->
 
 ---
