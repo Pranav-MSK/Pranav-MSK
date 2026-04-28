@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Pandas DataFrames feel like spreadsheets with superpowers.
+💡 Tip: Use filters to narrow down datasets quickly.
 <!--END_SECTION:fun-fact-->
 
 ---
