@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use filters to narrow down datasets quickly.
+📊 Fact: Data accuracy is more important than data volume.
 <!--END_SECTION:fun-fact-->
 
 ---
