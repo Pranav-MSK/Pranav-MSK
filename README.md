@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Data accuracy is more important than data volume.
+😄 Fun: Errors are just undocumented features.
 <!--END_SECTION:fun-fact-->
 
 ---
