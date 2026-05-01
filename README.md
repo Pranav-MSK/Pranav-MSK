@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Errors are just undocumented features.
+💡 Tip: Use version control for your data projects.
 <!--END_SECTION:fun-fact-->
 
 ---
