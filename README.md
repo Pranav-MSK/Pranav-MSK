@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Dashboards help monitor real-time insights.
+😄 Fun: Good code is like good jokes — simple and effective.
 <!--END_SECTION:fun-fact-->
 
 ---
