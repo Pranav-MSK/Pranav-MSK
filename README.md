@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Good code is like good jokes — simple and effective.
+💡 Tip: Keep your queries readable and optimized.
 <!--END_SECTION:fun-fact-->
 
 ---
