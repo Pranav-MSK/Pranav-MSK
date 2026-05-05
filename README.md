@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Keep your queries readable and optimized.
+📊 Fact: Insights drive better business decisions.
 <!--END_SECTION:fun-fact-->
 
 ---
