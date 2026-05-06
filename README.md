@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Insights drive better business decisions.
+😄 Fun: SQL is where SELECT comes before FROM.
 <!--END_SECTION:fun-fact-->
 
 ---
