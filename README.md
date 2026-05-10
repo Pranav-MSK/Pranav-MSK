@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Fixing one bug sometimes creates two more.
+💡 Tip: Use aggregation functions to summarize data.
 <!--END_SECTION:fun-fact-->
 
 ---
