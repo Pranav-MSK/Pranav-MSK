@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use aggregation functions to summarize data.
+📊 Fact: Patterns in data often reveal hidden opportunities.
 <!--END_SECTION:fun-fact-->
 
 ---
