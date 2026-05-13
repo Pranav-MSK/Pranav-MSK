@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Patterns in data often reveal hidden opportunities.
+😄 Fun: A well-written query is satisfying to run.
 <!--END_SECTION:fun-fact-->
 
 ---
