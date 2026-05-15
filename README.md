@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: A well-written query is satisfying to run.
+💡 Tip: Keep learning — tools evolve constantly.
 <!--END_SECTION:fun-fact-->
 
 ---
