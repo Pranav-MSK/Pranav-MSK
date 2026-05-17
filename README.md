@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-💡 Tip: Keep learning — tools evolve constantly.
+📊 Fact: Data is valuable only when it’s understood.
 <!--END_SECTION:fun-fact-->
 
 ---
