@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-📊 Fact: Data is valuable only when it’s understood.
+😄 Fun: Turning data into insights is like solving a mystery.
 <!--END_SECTION:fun-fact-->
 
 ---
