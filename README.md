@@ -56,7 +56,7 @@ const pranav = {
 
 ## ⚡ Daily Byte
 <!--START_SECTION:fun-fact-->
-😄 Fun: Turning data into insights is like solving a mystery.
+💡 Tip: Use indexes in SQL to drastically improve query performance.
 <!--END_SECTION:fun-fact-->
 
 ---
