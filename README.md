@@ -4,7 +4,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════════
      👋 GREETING + TYPING SVG
-     Replace wave.gif URL if you move the file
 ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
@@ -55,7 +54,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════
      📊 GITHUB STATS
-     Theme: tokyonight — swap to any theme from:
+     Theme: tokyonight
      https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 ═══════════════════════════════════════════════════════════════ -->
 
@@ -163,7 +162,6 @@ const pranav = {
 
 <!-- ═══════════════════════════════════════════════════════════════
      📫 CONNECT
-     Replace YOUR_LINKEDIN and YOUR_EMAIL with actual values
 ═══════════════════════════════════════════════════════════════ -->
 
 ## 📫 Let's Connect
