@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=Data+Enthusiast;Web+Developer+%26+Cloud+Learner;Turning+Data+into+Insights;Always+Learning+and+Exploring" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer+%26+Cloud+Enthusiast;Turning+Data+into+Insights;Always+Learning+and+Exploring" alt="Typing SVG" />
   </a>
 </p>
 
@@ -167,7 +167,7 @@ const pranav = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9">
+  <a href="https://www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
