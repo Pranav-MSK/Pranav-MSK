@@ -1,12 +1,12 @@
 import json
 
 # Load facts
-with open("fun-facts.json", "r") as f:
+with open(".github/data/fun-facts.json", "r") as f:
     facts = json.load(f)
 
 # Load last index
 try:
-    with open("fact_index.txt", "r") as f:
+    with open(".github/data/fact_index.txt", "r") as f:
         index = int(f.read().strip())
 except:
     index = 0

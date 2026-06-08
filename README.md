@@ -7,7 +7,7 @@
 ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Pranav-MSK/Pranav-MSK/master/wave.gif" width="28px" height="28px"/>
+  <img src="assets\wave.gif" width="28px" height="28px"/>
   &nbsp;Hi, I'm <strong>Pranav M S Krishnan</strong>
 </h2>
 
@@ -70,6 +70,9 @@
   <img src="https://streak-stats.demolab.com?user=Pranav-MSK&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 </p>
 
+<!--p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-MSK&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=false&no-frame=true&box-bg=0a0e1a&title=00f5ff&icon=a78bfa" alt="GitHub Trophies"/>
+</p>-->
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
