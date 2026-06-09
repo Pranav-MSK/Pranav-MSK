@@ -47,7 +47,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: Correlation does not imply causation.
+💡 Tip: Document your dashboards with tooltips so stakeholders don't guess what your metrics mean.
 <!--END_SECTION:fun-fact-->
 
 ---
