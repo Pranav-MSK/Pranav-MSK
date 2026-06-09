@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Pranav-MSK&theme=tokyonight&title=MultiLanguage,Issues,Repositories,Commits,PullRequest,Stars,Followers,LongTimeUser,NewUser&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Pranav-MSK&theme=darkhub&title=MultiLanguage,Issues,Repositories,Commits,PullRequest,Stars,Followers,LongTimeUser,NewUser&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </p>
 ---
 
