@@ -61,18 +61,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-gray-pi-69.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" height="165" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-MSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=94a3b8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-gray-pi-69.vercel.app/api/top-langs/?username=Pranav-MSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=94a3b8" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pranav-MSK&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 </p>
 
-<!--p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranav-MSK&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=false&no-frame=true&box-bg=0a0e1a&title=00f5ff&icon=a78bfa" alt="GitHub Trophies"/>
-</p>-->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Pranav-MSK&theme=tokyonight&title=MultiLanguage,Issues,Repositories,Commits,PullRequest,Stars,Followers,LongTimeUser,NewUser&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+</p>
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════
