@@ -24,8 +24,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&color=00f5ff&style=flat-square&label=Profile+Views" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/Pranav-MSK?style=flat-square&color=a78bfa&labelColor=0f1426&label=Followers" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-10b981?style=flat-square&labelColor=0f1426" alt="open to collaborate"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/❤️%20Open%20Source-Contributor-a78bfa?style=flat-square&labelColor=0f1426" alt="Open Source Contributor"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborate-10b981?style=flat-square&labelColor=0f1426" alt="Open to Collaborate"/>
 </p>
 
 ---
