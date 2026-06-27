@@ -1,6 +1,6 @@
 import json
 
-# Load facts
+# 1. FIXED: Changed hyphen to underscore to match your actual filename
 with open(".github/data/fun_facts.json", "r") as f:
     facts = json.load(f)
 
@@ -16,7 +16,8 @@ fact = facts[index]
 
 # Update index
 next_index = (index + 1) % len(facts)
-with open("fact_index.txt", "w") as f:
+# 2. FIXED: Saved back to the correct nested data folder path
+with open(".github/data/fact_index.txt", "w") as f:
     f.write(str(next_index))
 
 # Read README
