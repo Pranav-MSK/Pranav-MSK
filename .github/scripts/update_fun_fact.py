@@ -1,7 +1,7 @@
 import json
 
 # Load facts
-with open(".github/data/fun-facts.json", "r") as f:
+with open(".github/data/fun_facts.json", "r") as f:
     facts = json.load(f)
 
 # Load last index
