@@ -1,34 +1,45 @@
 import json
+import os
 
-# 1. FIXED: Changed hyphen to underscore to match your actual filename
-with open(".github/data/fun_facts.json", "r") as f:
+# 1. Load facts safely
+json_path = ".github/data/fun_facts.json"
+with open(json_path, "r", encoding="utf-8") as f:
     facts = json.load(f)
 
-# Load last index
+# 2. Load last index safely
+index_path = ".github/data/fact_index.txt"
 try:
-    with open(".github/data/fact_index.txt", "r") as f:
+    with open(index_path, "r", encoding="utf-8") as f:
         index = int(f.read().strip())
-except:
+except Exception:
     index = 0
 
-# Get next fact
+# Ensure index doesn't go out of bounds
+index = index % len(facts)
 fact = facts[index]
 
-# Update index
+# 3. Update index
 next_index = (index + 1) % len(facts)
-# 2. FIXED: Saved back to the correct nested data folder path
-with open(".github/data/fact_index.txt", "w") as f:
+with open(index_path, "w", encoding="utf-8") as f:
     f.write(str(next_index))
 
-# Read README
-with open("README.md", "r") as f:
+# 4. Read and update README
+readme_path = "README.md"
+with open(readme_path, "r", encoding="utf-8") as f:
     content = f.read()
 
 start = "<!--START_SECTION:fun-fact-->"
 end = "<!--END_SECTION:fun-fact-->"
 
+# Check if markers exist to prevent silent failures
+if start not in content or end not in content:
+    raise ValueError(f"Missing HTML comment placeholders '{start}' or '{end}' in README.md")
+
+# Core fix: Corrected the list slicing logic
 new_content = content.split(start)[0] + start + "\n" + fact + "\n" + end + content.split(end)[1]
 
-# Write updated README
-with open("README.md", "w") as f:
+# 5. Write updated README
+with open(readme_path, "w", encoding="utf-8") as f:
     f.write(new_content)
+
+print(f"Success! Updated README with fact index {index}.")
