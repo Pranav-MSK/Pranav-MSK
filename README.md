@@ -172,7 +172,7 @@ const pranav = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranav-m-s-krishnan-25b5982a9">
+  <a href="https://www.linkedin.com/in/pranav-msk">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
