@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: git commit -m 'Fixing stuff' ... git commit -m 'Fixing stuff for real' ... git commit -m 'Please work.'
+💡 Tip: Use HAVING to filter aggregated data, and WHERE for row-level filtering—mixing them up ruins query speed.
 <!--END_SECTION:fun-fact-->
 
 ---
