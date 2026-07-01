@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats-gray-pi-69.vercel.app/api?username=Pranav-MSK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" height="165" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats-gray-pi-69.vercel.app/api/top-langs/?username=Pranav-MSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=94a3b8" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats-gray-pi-69.vercel.app/api/top-langs/?username=Pranav-MSK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&text_color=94a3b8&private=false" height="165" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -83,18 +83,17 @@
 
 ## 🗂 Projects
 
-### 🎨 [Issue Ink](https://github.com/Pranav-MSK/Issue-Ink)
-- Built a Canvas using GitHub README and Actions
-- A collaborative art experiment
-
-### 📊 [Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis)
-- Analyzed study and habit patterns using Python (Pandas, NumPy)
-- Derived insights on productivity trends during exam periods
-- Used data cleaning, transformation, and visualization techniques
+* 💼 [Job Intelligence Dashboard](https://github.com/Pranav-MSK/job-intelligence-dashboard) - End-to-end ETL pipeline and Streamlit dashboard tracking software engineering job market trends via the Adzuna API.
+* 🎨 [Issue Ink](https://github.com/Pranav-MSK/issue-ink) - A collaborative, interactive pixel-art grid experiment driven entirely by GitHub Actions and automated markdown workflows.
+* 📈 [Superstore Profit Optimization](https://github.com/Pranav-MSK/superstore-profit-optimization) - Data case study and Tableau dashboard isolating a high-leverage $65K promotional value drain to eliminate corporate profit leakage.
+* 🌍 [India AQI Dashboard](https://github.com/Pranav-MSK/india-aqi-dashboard) - Interactive visualization mapping 5 years of historical air pollution data across major Indian cities to uncover seasonal and lockdown trends.
+* 📊 [Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis) - Exploratory data analysis tracking the direct impact of academic evaluation windows on sleep, screen time, and study behavior.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
+<!---
+
+═══════════════════════════════════════════════════════════════
      📌 PINNED REPOS
 ═══════════════════════════════════════════════════════════════ 
 
