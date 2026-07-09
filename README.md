@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: When building web dashboards, use lazy loading for heavy data visual elements to speed up the initial page load.
+📊 Fact: Bar charts are still statistically proven to be the fastest visual for the human brain to compare absolute sizes.
 <!--END_SECTION:fun-fact-->
 
 ---
