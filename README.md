@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Nothing tests a developer’s faith quite like running a script on production data and waiting for the console output.
+💡 Tip: Before running an expensive cloud query on BigQuery or Snowflake, always look at the estimated bytes scanned.
 <!--END_SECTION:fun-fact-->
 
 ---
