@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: Before running an expensive cloud query on BigQuery or Snowflake, always look at the estimated bytes scanned.
+📊 Fact: The term 'bug' was popularized in 1947 when Grace Hopper found an actual moth trapped inside a Harvard Mark II computer.
 <!--END_SECTION:fun-fact-->
 
 ---
