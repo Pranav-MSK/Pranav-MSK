@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: The term 'bug' was popularized in 1947 when Grace Hopper found an actual moth trapped inside a Harvard Mark II computer.
+😄 Fun: Code is like poetry—most of the time, nobody but the person who wrote it understands what it means.
 <!--END_SECTION:fun-fact-->
 
 ---
