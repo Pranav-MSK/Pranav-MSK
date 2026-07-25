@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Local machine: 'It works fine here!' Production server: 'I have never seen this code in my life.'
+💡 Tip: Master the CASE WHEN statement in SQL; it’s the Swiss Army knife of on-the-fly data transformation.
 <!--END_SECTION:fun-fact-->
 
 ---
