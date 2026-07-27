@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: Master the CASE WHEN statement in SQL; it’s the Swiss Army knife of on-the-fly data transformation.
+📊 Fact: Over 80% of enterprise data is completely unstructured—existing as text files, emails, videos, and audio tracks.
 <!--END_SECTION:fun-fact-->
 
 ---
