@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: You know you’re a data enthusiast when you start creating charts to track your own daily coffee consumption patterns.
+💡 Tip: Use git branch for new features or data experiments instead of messing up your main branch.
 <!--END_SECTION:fun-fact-->
 
 ---
