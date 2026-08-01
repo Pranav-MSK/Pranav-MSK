@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: Use git branch for new features or data experiments instead of messing up your main branch.
+📊 Fact: A bad database index can actually slow down data inserts and updates, as the index has to rebuild every time.
 <!--END_SECTION:fun-fact-->
 
 ---
