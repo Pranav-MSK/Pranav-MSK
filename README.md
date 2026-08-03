@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: A bad database index can actually slow down data inserts and updates, as the index has to rebuild every time.
+😄 Fun: SQL is great because it’s the only place where you can explicitly command something to inner join, drop, or alter without consequences.
 <!--END_SECTION:fun-fact-->
 
 ---
