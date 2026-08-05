@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: SQL is great because it’s the only place where you can explicitly command something to inner join, drop, or alter without consequences.
+💡 Tip: Keep your color palettes minimal in dashboards—use strong accents only to draw attention to critical anomalies.
 <!--END_SECTION:fun-fact-->
 
 ---
