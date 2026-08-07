@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: Keep your color palettes minimal in dashboards—use strong accents only to draw attention to critical anomalies.
+📊 Fact: The most effective data storytelling limits cognitive load by focusing on exactly one key takeaway per chart.
 <!--END_SECTION:fun-fact-->
 
 ---
