@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: When learning a new data tool, start by trying to answer one specific, real-world question rather than reading the whole manual.
+📊 Fact: SQL is an ISO standard, meaning the fundamentals you learn carry across MySQL, Postgres, SQL Server, and cloud warehouses.
 <!--END_SECTION:fun-fact-->
 
 ---
