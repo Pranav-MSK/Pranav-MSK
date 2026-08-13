@@ -84,10 +84,11 @@
 ## 🗂 Projects
 
 * 💼 [Job Intelligence Dashboard](https://github.com/Pranav-MSK/job-intelligence-dashboard) - End-to-end ETL pipeline and Streamlit dashboard tracking software engineering job market trends via the Adzuna API.
-* 🎨 [Issue Ink](https://github.com/Pranav-MSK/issue-ink) - A collaborative, interactive pixel-art grid experiment driven entirely by GitHub Actions and automated markdown workflows.
 * 📈 [Superstore Profit Optimization](https://github.com/Pranav-MSK/superstore-profit-optimization) - Data case study and Tableau dashboard isolating a high-leverage $65K promotional value drain to eliminate corporate profit leakage.
 * 🌍 [India AQI Dashboard](https://github.com/Pranav-MSK/india-aqi-dashboard) - Interactive visualization mapping 5 years of historical air pollution data across major Indian cities to uncover seasonal and lockdown trends.
 * 📊 [Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis) - Exploratory data analysis tracking the direct impact of academic evaluation windows on sleep, screen time, and study behavior.
+* 🎨 [Issue Ink](https://github.com/Pranav-MSK/issue-ink) - A collaborative, interactive pixel-art grid experiment driven entirely by GitHub Actions and automated markdown workflows.
+* 🩺 [Healthcare Data Analysis](https://github.com/Pranav-MSK/Healthcare-Data-Analysis) - An end-to-end SQL and Power BI analytics workflow mapping healthcare utilization, billing patterns, and patient demographics across a synthetic medical dataset
 
 ---
 
