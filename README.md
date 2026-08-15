@@ -212,12 +212,15 @@ const pranav = {
   </p>
 </details>
 
-<!--<details>
-  <summary> View my Pokemon Card</summary>
+<!--details>
+  <summary>👾 View My Pokemon Card</summary>
+  <br>
   <p align="center">
-    <img src="https://pokehub.ilhamriski.com/pranav-msk">
+    <a href="https://pokehub.ilhamriski.com/pranav-msk" target="_blank" rel="noopener noreferrer">
+      <img src="https://pokehub.ilhamriski.com/pranav-msk" alt="Pranav-MSK's Pokemon Card" />
+    </a>
   </p>
-</details>-->
+</details-->
 
 <!-- ═══════════════════════════════════════════════════════════════
      🌊 FOOTER WAVE
