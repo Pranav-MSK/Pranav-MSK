@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: SQL is an ISO standard, meaning the fundamentals you learn carry across MySQL, Postgres, SQL Server, and cloud warehouses.
+😄 Fun: Data preparation is essentially playing digital detective, where the main suspect is missing formatting.
 <!--END_SECTION:fun-fact-->
 
 ---
