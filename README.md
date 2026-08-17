@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Data preparation is essentially playing digital detective, where the main suspect is missing formatting.
+💡 Tip: Use common table expressions (CTEs) instead of deeply nested subqueries to make your complex SQL readable.
 <!--END_SECTION:fun-fact-->
 
 ---
