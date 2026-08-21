@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: API-driven architectures are what allow separate platforms to share data seamlessly in less than a fraction of a second.
+😄 Fun: Cloud computing: because using someone else's supercomputer sounds much better than melting your own laptop.
 <!--END_SECTION:fun-fact-->
 
 ---
