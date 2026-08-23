@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Cloud computing: because using someone else's supercomputer sounds much better than melting your own laptop.
+💡 Tip: Store dates and times in UTC format on your cloud backends to avoid timezone calculation headaches later.
 <!--END_SECTION:fun-fact-->
 
 ---
