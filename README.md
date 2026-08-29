@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Writing code without comments is a wonderful gift to your future self... if you love high-stakes mysteries.
+💡 Tip: Before sharing an analysis, check for extreme outliers—they can heavily warp your means and medians.
 <!--END_SECTION:fun-fact-->
 
 ---
