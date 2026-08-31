@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-💡 Tip: Before sharing an analysis, check for extreme outliers—they can heavily warp your means and medians.
+📊 Fact: Even perfectly clean data can yield completely inaccurate conclusions if the underlying sample size is too small.
 <!--END_SECTION:fun-fact-->
 
 ---
