@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: Even perfectly clean data can yield completely inaccurate conclusions if the underlying sample size is too small.
+😄 Fun: Tell a developer their code has a bug, and they will spend three hours proving the user executed it wrong.
 <!--END_SECTION:fun-fact-->
 
 ---
