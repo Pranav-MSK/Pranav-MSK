@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: Tell a developer their code has a bug, and they will spend three hours proving the user executed it wrong.
+💡 Tip: Use .info() and .describe() in Pandas as your very first step to map out any unfamiliar dataset.
 <!--END_SECTION:fun-fact-->
 
 ---
