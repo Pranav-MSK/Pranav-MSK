@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
+💡 Tip: Use COALESCE in SQL to cleanly replace NULL values with default defaults.
 <!--END_SECTION:fun-fact-->
 
 ---
