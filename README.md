@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: Poor data quality costs organizations millions of dollars annually in wasted operational time and bad decisions.
+😄 Fun: A SQL query walks into a bar, walks up to two tables, and asks, 'Can I join you?'
 <!--END_SECTION:fun-fact-->
 
 ---
