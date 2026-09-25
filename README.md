@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-😄 Fun: A SQL query walks into a bar, walks up to two tables, and asks, 'Can I join you?'
+💡 Tip: Never hardcode API keys or database credentials; use GitHub Secrets or environment variables.
 <!--END_SECTION:fun-fact-->
 
 ---
