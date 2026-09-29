@@ -49,7 +49,7 @@
 ## ⚡ Daily Byte
 
 <!--START_SECTION:fun-fact-->
-📊 Fact: Relational databases have been the backbone of tech for over 50 years, thanks to Edgar F. Codd’s relational model.
+😄 Fun: Excel is the world's most popular database, no matter how hard data engineers cry about it.
 <!--END_SECTION:fun-fact-->
 
 ---
