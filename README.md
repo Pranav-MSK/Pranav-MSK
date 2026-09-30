@@ -1,64 +1,87 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,12&text=Pranav%20M%20S%20Krishnan&fontSize=38&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=38&desc=Data%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Cloud%20Learner&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,12&text=Pranav%20M%20S%20Krishnan&fontSize=38&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=38&desc=Data%20Analytics%20%7C%20Data%20Engineeringr%20%7C%20Cloud%20%26%20Automation&descAlignY=58&descSize=16"/>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     👋 GREETING + TYPING SVG
-═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="assets\wave.gif" width="28px" height="28px"/>
-  &nbsp;Hi, I'm <strong>Pranav M S Krishnan</strong>
-</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=Data+Analyst;Web+Developer+%26+Cloud+Enthusiast;Turning+Data+into+Insights;Always+Learning+and+Exploring" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=Data+Analytics+%26+Engineering;Building+Scalable+Data+Pipelines;Cloud+Infrastructure+%26+Automation;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     📊 PROFILE STATS BADGES
-     komarev = view counter | shields.io = social links
-═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav-MSK&color=00f5ff&style=flat-square&label=Profile+Views" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/I%20❤️%20Open%20Source-Always-a78bfa?style=flat-square&labelColor=0f1426" alt="I Love Open Source"/>
+  <a href="https://www.linkedin.com/in/pranav-msk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collaborate-10b981?style=flat-square&labelColor=0f1426" alt="Open to Collaborate"/>
+  <a href="mailto:pranavmskrishnan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     🙋 ABOUT ME
-═══════════════════════════════════════════════════════════════ -->
-
 ## 🙋 About Me
 
-> I enjoy working with data — cleaning it, analyzing it, and transforming it into meaningful stories through visualizations and dashboards. I also have experience building web-based projects and exploring cloud tools for scalable data workflows.
+- 📊 **Data & Cloud Specialist** building end-to-end ETL pipelines, analytics dashboards, and cloud automation workflows.
+- 🛠️ Technical proficiency spanning **Python (Pandas, NumPy)**, **SQL (MySQL, PostgreSQL)**, **R**, **Power BI**, and **Tableau**.
+- ☁️ Developing cloud infrastructure workflows using **Google Cloud Platform**, **Firebase**, and **GitHub Actions** CI/CD.
+- 🎯 Focused on scalable database architecture, query optimization, and real-time data ingestion platforms.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ⚡ DAILY BYTE — Automatically updated by GitHub Actions workflow
-═══════════════════════════════════════════════════════════════ -->
+## 🛠️ Tech Stack
 
-## ⚡ Daily Byte
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-<!--START_SECTION:fun-fact-->
-😄 Fun: Excel is the world's most popular database, no matter how hard data engineers cry about it.
-<!--END_SECTION:fun-fact-->
+**Data Engineering & Analytics**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Databases, Cloud & Automation**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     📊 GITHUB STATS
-     Theme: tokyonight
-     https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-═══════════════════════════════════════════════════════════════ -->
+## 🚀 Featured Projects
+
+### 💼 [Job Intelligence Dashboard](https://github.com/Pranav-MSK/job-intelligence-dashboard)
+*Automated ETL pipeline and analytics dashboard for tech market intelligence.*
+- Designed REST API extraction pipelines using **Python** & **MySQL** to ingest software role postings.
+- Built an interactive **Streamlit** reporting dashboard analyzing regional salary benchmarks and skill demand trends.
+
+### 📈 [Superstore Profit Optimization](https://github.com/Pranav-MSK/superstore-profit-optimization)
+*Executive data analytics case study isolating retail profit leakage.*
+- Processed complex transaction-level records via **Python (Pandas)** to isolate margin erosion triggers.
+- Designed a diagnostic **Tableau** dashboard uncovering a high-leverage **$65K promotional value drain**.
+
+### 🩺 [Healthcare Data Analysis](https://github.com/Pranav-MSK/Healthcare-Data-Analysis)
+*SQL and Power BI workflow mapping clinical utilization and financial metrics.*
+- Executed complex aggregate queries in **SQL** to evaluate patient billing distributions and length-of-stay parameters.
+- Modeled interactive **Power BI** dashboards detailing departmental profitability and patient demographics.
+
+---
+
+## 📁 More Projects
+
+- 🚲 **[Cyclistic Bike Share Analysis](https://github.com/Pranav-MSK/cyclistic-bike-share-analysis):** R & Tableau case study evaluating rider usage patterns to drive membership conversions.
+- 🌍 **[India AQI Dashboard](https://github.com/Pranav-MSK/india-aqi-dashboard):** Time-series analysis of 5 years of air quality metrics across major Indian metropolitan areas.
+- 📊 **[Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis):** Exploratory data analysis assessing academic stress impact on sleep and productivity trends.
+- 🎓 **[CGPA Calculator](https://github.com/Pranav-MSK/CGPACalculator):** Responsive dashboard application built with Vue.js and Vite for dynamic semester metric tracking.
+- 🎨 **[Issue Ink](https://github.com/Pranav-MSK/issue-ink):** Interactive pixel-art grid canvas driven by GitHub Issues and GitHub Actions workflow automation.
+- 📝 **[Text Summarizer](https://github.com/Pranav-MSK/text-summarizer):** Python NLP utility for automated key text extraction and summary generation.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -72,160 +95,8 @@
   <img src="https://streak-stats.demolab.com?user=Pranav-MSK&theme=tokyonight&hide_border=true&background=0a0e1a&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Pranav-MSK&theme=darkhub&column=7&title=MultiLanguage,Issues,Repositories,Commits,PullRequest,LongTimeUser,NewUser&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
-</p>
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     🗂 PROJECTS
-═══════════════════════════════════════════════════════════════ -->
-
-## 🗂 Projects
-
-* 💼 [Job Intelligence Dashboard](https://github.com/Pranav-MSK/job-intelligence-dashboard) - End-to-end ETL pipeline and Streamlit dashboard tracking software engineering job market trends via the Adzuna API.
-* 📈 [Superstore Profit Optimization](https://github.com/Pranav-MSK/superstore-profit-optimization) - Data case study and Tableau dashboard isolating a high-leverage $65K promotional value drain to eliminate corporate profit leakage.
-* 🌍 [India AQI Dashboard](https://github.com/Pranav-MSK/india-aqi-dashboard) - Interactive visualization mapping 5 years of historical air pollution data across major Indian cities to uncover seasonal and lockdown trends.
-* 📊 [Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis) - Exploratory data analysis tracking the direct impact of academic evaluation windows on sleep, screen time, and study behavior.
-* 🎨 [Issue Ink](https://github.com/Pranav-MSK/issue-ink) - A collaborative, interactive pixel-art grid experiment driven entirely by GitHub Actions and automated markdown workflows.
-* 🩺 [Healthcare Data Analysis](https://github.com/Pranav-MSK/Healthcare-Data-Analysis) - An end-to-end SQL and Power BI analytics workflow mapping healthcare utilization, billing patterns, and patient demographics across a synthetic medical dataset
-
----
-
-<!---
-
-═══════════════════════════════════════════════════════════════
-     📌 PINNED REPOS
-═══════════════════════════════════════════════════════════════ 
-
-## 📌 Pinned Repositories
-
 <p align="center">
-  <a href="https://github.com/Pranav-MSK/REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-MSK&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" alt="Repo 1"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pranav-MSK/REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-MSK&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" alt="Repo 2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pranav-MSK/REPO_NAME_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-MSK&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" alt="Repo 3"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pranav-MSK/REPO_NAME_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranav-MSK&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&bg_color=0a0e1a&title_color=00f5ff&icon_color=a78bfa&text_color=94a3b8" alt="Repo 4"/>
-  </a>
-</p>
-
------>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     💻 TECH STACK
-     Skill icons from: https://skillicons.dev
-     Full icon list: https://skillicons.dev/icons?i=list
-═══════════════════════════════════════════════════════════════ -->
-
-## 💻 Tech Stack
-
-```js
-const pranav = {
-  languages: ["Python", "SQL", "R", "JavaScript", "Java", "HTML", "CSS"],
-  dataVisualization: ["Pandas", "NumPy", "Matplotlib", "Tableau", "Power BI"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  cloud: ["Google Cloud", "Firebase"],
-  currentlyWorkingOn: ["Data Analysis Projects", "Building Dashboards", "Improving SQL Query Performance"]
-};
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,java,html,css,mysql,mongodb,gcp,firebase&theme=dark" alt="Skill Icons"/>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     🎯 CURRENT FOCUS + 🚀 NEXT GOALS
-═══════════════════════════════════════════════════════════════ -->
-
-## 🎯 Current Focus
-
-- Data Visualization using Power BI and Tableau
-- Data Analysis with Python (Pandas, NumPy)
-- Writing efficient SQL for real-world datasets
-
-## 🚀 Next Goals
-
-- Build Machine Learning models using scikit-learn
-- Create advanced visualizations with ggplot2
-- Work with cloud-based data pipelines (BigQuery, GCP)
-- Apply R and SQL to larger, real-world datasets
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     📫 CONNECT
-═══════════════════════════════════════════════════════════════ -->
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranav-msk">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pranavmskrishnan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pranav-MSK">
-    <img src="https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-> Open to collaboration on data and web projects — reach out for discussions, ideas, or opportunities!
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     🌟 EXTRAS
-═══════════════════════════════════════════════════════════════ -->
-
-## 🌟 Extras
-
-<details>
-  <summary>🌐 Explore GitHub Community (Octo Ring)</summary>
-  <br>
-
-  <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Pranav-MSK/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Pranav-MSK/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Pranav-MSK/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-</details>
-
-<details>
-  <summary>🏅 View My Holopin Badges</summary>
-  <br>
-  <p align="center">
-    <a href="https://holopin.io/@pranavmsk" target="_blank">
-      <img src="https://holopin.me/pranavmsk" alt="Pranav M S Krishnan's Holopin Badges" />
-    </a>
-  </p>
-</details>
-
-<!--details>
-  <summary>👾 View My Pokemon Card</summary>
-  <br>
-  <p align="center">
-    <a href="https://pokehub.ilhamriski.com/pranav-msk" target="_blank" rel="noopener noreferrer">
-      <img src="https://pokehub.ilhamriski.com/pranav-msk" alt="Pranav-MSK's Pokemon Card" />
-    </a>
-  </p>
-</details-->
-
-<!-- ═══════════════════════════════════════════════════════════════
-     🌊 FOOTER WAVE
-═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,12&section=footer&animation=fadeIn&textBg=false&descAlignY=40&descAlign=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=2,3,12&section=footer&animation=fadeIn"/>
 </p>
