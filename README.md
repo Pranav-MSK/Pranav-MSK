@@ -77,6 +77,7 @@
 - 🚲 **[Cyclistic Bike Share Analysis](https://github.com/Pranav-MSK/cyclistic-bike-share-analysis):** R & Tableau case study evaluating rider usage patterns to drive membership conversions.
 - 🌍 **[India AQI Dashboard](https://github.com/Pranav-MSK/india-aqi-dashboard):** Time-series analysis of 5 years of air quality metrics across major Indian metropolitan areas.
 - 📊 **[Exam Period Habit Analysis](https://github.com/Pranav-MSK/exam-period-habit-analysis):** Exploratory data analysis assessing academic stress impact on sleep and productivity trends.
+-  📁 LabSync: Vercel-powered file uploader for secure, passcode-protected uploads to a private GitHub repository from shared computers. (Private)
 - 🎓 **[CGPA Calculator](https://github.com/Pranav-MSK/CGPACalculator):** Responsive dashboard application built with Vue.js and Vite for dynamic semester metric tracking.
 - 🎨 **[Issue Ink](https://github.com/Pranav-MSK/issue-ink):** Interactive pixel-art grid canvas driven by GitHub Issues and GitHub Actions workflow automation.
 - 📝 **[Text Summarizer](https://github.com/Pranav-MSK/text-summarizer):** Python NLP utility for automated key text extraction and summary generation.
